@@ -1,6 +1,6 @@
 **<h1 align="center"><b>⍣ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ</b></h1>**
 <p align="center">
-  <a href="https://youtu.be/W4wSOZw8GXk">
+  <a href="https://youtu.be/w40WgPk0tyE">
     <img src="https://telegra.ph/file/a2303826e0c6d18bf9cab.jpg">
   </a>
   <p align="center">
@@ -8,16 +8,12 @@
     <br />
     <a href="https://telegram.dog/OP_FileToLinkBot"><strong>𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃 »</strong></a>
     <br />
-  </p>
-  <p align="center">
-  <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
-        <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
-  </p>
+  
 <hr>
   
 ## About This Bot
 
-<b><a href="https://www.github.com/Aadhi000" title="Dollow">Follow Me For Updates</a></b>
+<b><a href="https://www.github.com/Monon-sr" title="Dollow">Follow Me For Updates</a></b>
 
 ## Up to 4GB files Supported ♥️
 
